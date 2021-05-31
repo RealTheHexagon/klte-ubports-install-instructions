@@ -28,7 +28,7 @@ If you have all of these, **congratulations**, you can install Ubuntu Touch onto
 ---
 
 ## Installation
-1. Clone this repo, which has the images and rootfs within it with: `git clone https://github.com/RealTheHexagon/klte-ubports-install-instructions.git`,
+1. Download this [folder](https://drive.google.com/drive/folders/1TsroZoC0L3zuV-td-0sLswZdtiBT64-T?usp=sharing), which has the images and rootfs within it,
 2. Clone the halium-install repo, which has all the scripts required to install UBTouch, with: `git clone https://gitlab.com/JBBgameich/halium-install.git`,
 3. Make a backup of all your data, if you want to, by booting into the recovery, and selecting `backup`, and backing up onto a external drive, such as a Micro SD card, and make sure to have a Android image downloaded in case you want to switch back,
 4. Wipe the device, by going to `Wipe > Advanced Wipe` and selecting:
