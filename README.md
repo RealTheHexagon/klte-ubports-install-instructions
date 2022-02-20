@@ -8,8 +8,6 @@ My S5 broke, so I cannot continue development, as I cannot test it.
 
 ---
 
----
-
 Before continuing, you should read these pages to have an understanding of how Ubuntu Touch, and Halium works:
 - [Halium Documentation](https://docs.halium.org/en/latest/index.html),
 - [Ubuntu Touch Documentation](https://docs.ubports.com/en/latest/).
