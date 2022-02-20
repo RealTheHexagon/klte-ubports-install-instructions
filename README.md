@@ -2,8 +2,10 @@
 This repository has all the instructions for installing UBTouch to your klte device.
 
 ---
+
 THIS BUILD IS DISCONTINUED
 My S5 broke, so I cannot continue development, as I cannot test it.
+
 ---
 
 ---
